@@ -1,0 +1,7 @@
+AR.T.L.A.S. — Versión escritorio (by MMFC)
+
+1. Descomprimí el zip.
+2. Abrí ARTLAS.html con doble click (Chrome o Edge).
+3. Configurá tus API keys en Conexiones API, o iniciá sesión para traerlas de la nube.
+
+Diseñado por el Prof. Mario M. Figueroa de la Cruz
