@@ -1,7 +1,10 @@
-AR.T.L.A.S. — Versión escritorio (by MMFC)
+AR.T.L.A.S. v6.8.3 — Versión escritorio (by MMFC)
 
-1. Descomprimí el zip.
-2. Abrí ARTLAS.html con doble click (Chrome o Edge).
-3. Configurá tus API keys en Conexiones API, o iniciá sesión para traerlas de la nube.
+1. Descomprimí el zip (dejá todos los archivos juntos en una carpeta).
+2. (Opcional) Doble click en «Crear acceso directo.bat» para tener el icono de ARTLAS en el Escritorio.
+3. Abrí ARTLAS.html (o el acceso directo con el logo) con doble click (Chrome o Edge).
+4. Configurá tus API keys en Conexiones API, o iniciá sesión para traerlas de la nube.
+
+Nota: si Windows bloquea el .bat al descomprimir, clic derecho al zip → Propiedades → Desbloquear, y descomprimí de nuevo.
 
 Diseñado por el Prof. Mario M. Figueroa de la Cruz
